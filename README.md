@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Project-Based Javascript Tutorials
 
-You can use the [editor on GitHub](https://github.com/DruRly/app-based-tutorials/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Learn by doing
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why Project-Based Learning?
 
-### Markdown
+* [The secret to being a top developer is building things!](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Why I abandoned online data courses for project-based learning](https://medium.freecodecamp.org/why-i-abandoned-online-data-courses-for-project-based-learning-17e350fd9347)
 
-```markdown
-Syntax highlighted code block
+* [How (and why) to start building useful, real-world software with no experience](https://medium.freecodecamp.org/how-and-why-to-start-building-useful-real-world-software-with-no-experience-46f265eaf38)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DruRly/app-based-tutorials/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [How to go from coding tutorials to building your own projects](https://medium.freecodecamp.org/how-to-go-from-coding-tutorials-to-building-your-own-projects-b9ab51074980)
